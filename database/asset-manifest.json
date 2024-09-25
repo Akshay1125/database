@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FreeRooms/static/css/main.34d6f3e4.css",
+    "main.js": "/FreeRooms/static/js/main.aaadc6de.js",
+    "index.html": "/FreeRooms/index.html",
+    "main.34d6f3e4.css.map": "/FreeRooms/static/css/main.34d6f3e4.css.map",
+    "main.aaadc6de.js.map": "/FreeRooms/static/js/main.aaadc6de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d6f3e4.css",
+    "static/js/main.aaadc6de.js"
+  ]
+}
